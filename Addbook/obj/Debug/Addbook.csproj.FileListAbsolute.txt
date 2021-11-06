@@ -1,0 +1,13 @@
+C:\Users\chumo\source\repos\Addbook\Addbook\bin\Debug\Addbook.exe.config
+C:\Users\chumo\source\repos\Addbook\Addbook\bin\Debug\Addbook.exe
+C:\Users\chumo\source\repos\Addbook\Addbook\bin\Debug\Addbook.pdb
+C:\Users\chumo\source\repos\Addbook\Addbook\obj\Debug\Addbook.csprojAssemblyReference.cache
+C:\Users\chumo\source\repos\Addbook\Addbook\obj\Debug\Addbook.Form1.resources
+C:\Users\chumo\source\repos\Addbook\Addbook\obj\Debug\Addbook.Properties.Resources.resources
+C:\Users\chumo\source\repos\Addbook\Addbook\obj\Debug\Addbook.csproj.GenerateResource.cache
+C:\Users\chumo\source\repos\Addbook\Addbook\obj\Debug\Addbook.csproj.CoreCompileInputs.cache
+C:\Users\chumo\source\repos\Addbook\Addbook\obj\Debug\Addbook.exe
+C:\Users\chumo\source\repos\Addbook\Addbook\obj\Debug\Addbook.pdb
+C:\Users\chumo\source\repos\Addbook\Addbook\obj\Debug\Addbook.Menu.resources
+C:\Users\chumo\source\repos\Addbook\Addbook\obj\Debug\Addbook.Delete.resources
+C:\Users\chumo\source\repos\Addbook\Addbook\obj\Debug\Addbook.Actualizar.resources
